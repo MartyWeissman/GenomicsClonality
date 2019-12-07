@@ -1,2 +1,3 @@
 # GenomicsClonality
-Project with Jeff et al.
+
+Project with Jeff Mold, Carl-Johan Eriksson, et. al.
